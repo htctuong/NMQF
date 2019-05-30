@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that error message is shown when user input invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8e38c96-e792-4400-a961-ab9d23002898</testCaseGuid>
+</TestCaseEntity>
